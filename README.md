@@ -51,7 +51,7 @@
 |:-|:-|:-|
 |1|[Python官方文档](https://docs.python.org/zh-cn/3/)|这里是 Python 的官方文档|
 |2|[Django官方文档](https://docs.djangoproject.com/zh-hans/)|这里是 Django 的官方文档|
-|3|[Flask官方文档](https://flask.palletsprojects.com/en/)|这里是 Flask 的官方文档|
+|3|[Flask官方文档](https://flask.palletsprojects.com/en/2.0.x/)|这里是 Flask 的官方文档|
 |4|[FastAPI官方文档](https://fastapi.tiangolo.com/)|这里是 FastAPI 的官方文档|
 |5|[Pandas官方文档](https://pandas.pydata.org/docs/)|这里是 Pandas 的官方文档|
 
